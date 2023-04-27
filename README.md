@@ -18,17 +18,23 @@
   </a>
 </div>
 <div id="bio">
-  <h2>About Me</h2>
+  <h2>About Me:</h2>
   <ul>
-    <li>I'm a software developer and [your interests/hobbies]</li>
-    <li>I'm passionate about [what you're passionate about]</li>
-    <li>I'm constantly learning and updating my skills to stay up-to-date with the latest technologies.</li>    <li>I'm currently seeking new opportunities to apply my knowledge and expertise in the [your field] space.</li>
-    <li>I enjoy documenting my projects on Medium to gain a deeper understanding of my work.</li>
-    <li>Focusing on learning [languages or technologies you're currently studying] right now.</li>
+    <li> 🪄 I'm a software developer that is passionate about bringing ideas to life with the power of code</li>
+    <li> 💻 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies</li>    
+    <li> 🤓 I'm actively looking for new opportunities to utilize my proficiencies in software development</li>
+    <li> 📚 Currently focused on advancing my C# skills, and learning Python</li>
+    <li> 🏕 Fun Fact: I love the outdoors, and my dog, Kuri! 🐕 </li>
   </ul>
 </div>
-<div id="stats">
-  <h2>Stats</h2>
-  <img src="https://streak-stats.demolab.com?user=[your username]&theme=transparent&fire=EB5454" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your username]&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+<h2>:hammer_and_wrench: Languages and Technologies</h2>
+<div>
+  <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp"  alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DOTNET"  alt="dotnet" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg"  title="Visual Studio" alt="VS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Visual Studio Code" alt="VSC" width="40" height="40"/>&nbsp;
 </div>
