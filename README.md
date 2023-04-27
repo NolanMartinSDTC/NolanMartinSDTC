@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>Console.WriteLine("Hello World, meet Nolan Martin!");</h1>
-  <p><img src ="https://github.com/NolanMartinSDTC/NolanMartinSDTC/blob/main/43KV.gif" align="center" width=500px height=500px></p>
+  <p><img src ="https://github.com/NolanMartinSDTC/NolanMartinSDTC/blob/main/43KV.gif" align="center" width=400px height=400px></p>
 </div>
 <div id="badges" align="center">
   <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/NolanMartinSDTC/badges/large" alt="codewars badge large" />
