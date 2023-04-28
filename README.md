@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <h3 class="text">CodeWars:</h2>
-  <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/NolanMartinSDTC/badges/small" alt="codewars badge small" /></a>
+  <a target="_blank" href="https://www.codewars.com/users/NolanMartinSDTC"><img src="https://www.codewars.com/users/NolanMartinSDTC/badges/small" alt="codewars badge small" /></a>
   <h3 class="text">LinkedIn:</h2>
   <a href="https://www.linkedin.com/in/nolan-martin-profile/">
   <img border=250px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
