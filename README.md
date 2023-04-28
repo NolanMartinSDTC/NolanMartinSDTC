@@ -2,23 +2,20 @@
   <h1>Console.WriteLine("Hello World, meet Nolan Martin!");</h1>
   <p><img src ="https://github.com/NolanMartinSDTC/NolanMartinSDTC/blob/main/43KV.gif" align="center" width=400px height=400px></p>
 </div>
-<div id="badges" align="center">
-  <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/NolanMartinSDTC/badges/large" alt="codewars badge large" />
-  </a>
-</div>
 
 <div id="badges" align="center">
+  <h3 class="text">CodeWars:</h2>
+  <a target="_blank" href="https://www.codewars.com/r/C6HkBg"><img src="https://www.codewars.com/users/NolanMartinSDTC/badges/small" alt="codewars badge small" /></a>
+  <h3 class="text">LinkedIn:</h2>
   <a href="https://www.linkedin.com/in/nolan-martin-profile/">
-    <img border=250px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<div id="badges" align="center">
-  <a href="[link to personal website]" align="right">
-    <img src="personal website link" alt="Personal Website"/>
-  </a>
-</div>
-<div id="bio">
-  <h2>About Me:</h2>
+  <img border=250px src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+<!--   <h3 class="text">Personal Website:</h2>
+  <a href="[link to personal website]">
+  <img src="personal website link" alt="Personal Website"/>
+  </a> -->
+  
+<div id="bio" align="left">
+  <h2>About Me</h2>
   <ul>
     <li> 🪄 I'm a software developer that is passionate about bringing ideas to life with the power of code</li>
     <li> 💻 I'm constantly learning and updating my skills to stay up-to-date with the latest technologies</li>    
@@ -27,8 +24,8 @@
     <li> 🏕 Fun Fact: I love the outdoors, and my dog, Kuri! 🐕 </li>
   </ul>
 </div>
-<h2>:hammer_and_wrench: Languages and Technologies</h2>
-<div>
+<h2 align="left">:hammer_and_wrench: Languages and Technologies</h2>
+<div align="left">
   <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp"  alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="DOTNET"  alt="dotnet" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
